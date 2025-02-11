@@ -14,7 +14,4 @@ public class Address {
 
     private String city;
     private String district;
-
-//    @OneToOne(mappedBy = "address")
-//    private Member member;
 }
